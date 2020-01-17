@@ -1,3 +1,4 @@
+![Example](example.png?raw=true "Example")
 ## Requirements
 `SonosAlarm` - https://github.com/AaronDavidSchneider/SonosAlarm
 

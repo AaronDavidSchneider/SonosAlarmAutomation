@@ -1,3 +1,4 @@
+![Example](example.png?raw=true "Example")
 # SonosAlarmAutomation
 
 App that brings alarm snoozing to SONOS using the custom component SonosAlarm.
