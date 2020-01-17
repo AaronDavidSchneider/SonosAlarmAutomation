@@ -21,7 +21,7 @@ class SonosAlarm(hass.Hass):
             ids = self.args["ids"]
             hour = float(self.get_state("input_number.alarm_clock_hour"))
             minute = float(self.get_state("input_number.alarm_clock_minute"))
-            snooze = float(self.get_state("input_number.snooze"))
+            snooze = float(self.get_state("input_number.alarm_snooze"))
             volume = float(self.get_state("input_number.alarm_volume"))
             enabled = self.get_state("group.sonos_alarm")
             times = []
