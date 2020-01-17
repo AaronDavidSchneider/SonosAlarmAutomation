@@ -11,6 +11,7 @@ App that brings alarm snoozing to SONOS using the custom component SonosAlarm.
 Download the `SonosAlarm` directory from inside the `apps` directory here to your local `apps` directory, then add the configuration to enable the `SonosAlarm` module.
 
 or use HACS
+
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
 ## App configuration
